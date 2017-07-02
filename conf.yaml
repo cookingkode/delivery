@@ -1,0 +1,28 @@
+de:
+  -
+    id : "d1"  # id
+    lat : 12.9279232 # lat
+    long : 77.6271078 # long
+  -
+    id : "d2"
+    lat : 12.92488806
+    long : 77.64945745
+
+orders:
+  -
+    id : "o1"   # id
+    lat :  12.92279665 # lat
+    long :  77.65190363 # long
+    value : 10 # value
+
+  -
+    id : "o2"
+    lat : 12.92965641
+    long : 77.62925506
+    value : 20
+
+  -
+    id : "o3"
+    lat : 12.92488806
+    long : 77.64945744
+    value : 20
